@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body>
+<em>Emphasized text</em>
+<strong>Strong text</strong>
+<dfn>Definition Term</dfn>
+<code>A piece of computer code</code>
+<samp>Sample output from a computer program</samp>
+<kbd>Keyboard input</kbd>
+<var>Variable</var>
+</body>
+</html>

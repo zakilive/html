@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+
+<html>
+<body>
+<img src=http://zakilive.com/wp-content/uploads/2012/10/my-new-image-NOW.jpg height="177" width="250" alt="Zaki"></img>
+
+</body>
+</html>

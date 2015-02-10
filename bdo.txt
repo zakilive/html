@@ -1,0 +1,15 @@
+<!DOCTYPR html>
+<html>
+<body>
+<p>
+If your browser supports bi-directional override(bdo), the next line will be written from the right to the left(rtl)
+Next line will be ulta
+</p>
+
+<bdo>
+
+<bdo dir="rtl">
+Hello zaki!
+</body>
+
+</html>
